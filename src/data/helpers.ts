@@ -13,7 +13,8 @@ export function vid(
   duration = "—",
   type: Video["type"] = "Concept Lecture",
   whyRecommended: string,
-  youtubeId?: string
+  youtubeId?: string,
+  channel?: string
 ): Video {
   const objId = youtubeId ? youtubeId : `s:${query.replace(/[^a-z0-9]+/gi, "-").slice(0, 60)}:${id}`;
   return {
@@ -22,8 +23,10 @@ export function vid(
     url: youtubeId
       ? `https://www.youtube.com/embed/${youtubeId}?rel=0`
       : `https://www.youtube.com/embed/?listType=search&list=${encodeURIComponent(query)}`,
+    youtubeId,
+    watchUrl: youtubeId ? `https://www.youtube.com/watch?v=${youtubeId}` : undefined,
     thumbnail: youtubeId ? `https://i.ytimg.com/vi/${youtubeId}/hqdefault.jpg` : "",
-    channel: youtubeId ? "Verified lecture" : "YouTube — exact topic search",
+    channel: youtubeId ? channel ?? "Verified lecture" : "YouTube — exact topic search",
     subjectId,
     semester,
     unit,

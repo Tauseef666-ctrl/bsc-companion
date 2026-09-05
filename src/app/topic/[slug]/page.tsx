@@ -16,6 +16,9 @@ import {
   HelpCircle,
   TriangleAlert,
   Star,
+  Play,
+  ExternalLink,
+  BadgeCheck,
 } from "lucide-react";
 import { PageShell } from "@/components/PageShell";
 import { Card, Chip, StatusBadge, EmptyState } from "@/components/ui";
@@ -228,31 +231,56 @@ export default function TopicPage({ params }: { params: { slug: string } }) {
             </h2>
             {videos.length > 0 ? (
               <div className="space-y-3">
-                {videos.map((v) => (
-                  <div key={v.id} className="overflow-hidden rounded-xl border border-cream-200 dark:border-charcoal-800">
-                    <div className="aspect-video w-full bg-charcoal-100 dark:bg-charcoal-800">
-                      <iframe
-                        src={v.url}
-                        title={v.title}
-                        loading="lazy"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowFullScreen
-                        className="h-full w-full"
-                      />
+                {videos.map((v) =>
+                  v.youtubeId && v.watchUrl ? (
+                    <a
+                      key={v.id}
+                      href={v.watchUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label={`Play ${v.title} on YouTube`}
+                      className="block overflow-hidden rounded-xl border border-cream-200 transition active:scale-[0.99] dark:border-charcoal-800"
+                    >
+                      <div className="group relative aspect-video w-full overflow-hidden bg-charcoal-100 dark:bg-charcoal-800">
+                        {v.thumbnail && (
+                          <img
+                            src={v.thumbnail}
+                            alt={v.title}
+                            loading="lazy"
+                            className="h-full w-full object-cover"
+                          />
+                        )}
+                        <div className="absolute inset-0 flex items-center justify-center bg-black/25 transition group-active:bg-black/35">
+                          <span className="flex h-12 w-12 items-center justify-center rounded-full bg-white/95 text-sage-700 shadow-lg">
+                            <Play size={22} fill="currentColor" />
+                          </span>
+                        </div>
+                        <span className="absolute right-2 top-2 inline-flex items-center gap-1 rounded-full bg-black/60 px-2 py-0.5 text-[11px] font-medium text-white backdrop-blur">
+                          <ExternalLink size={11} /> YouTube
+                        </span>
+                      </div>
+                      <div className="p-3">
+                        <p className="text-sm font-medium text-charcoal-800 dark:text-cream-50">
+                          {v.title}
+                        </p>
+                        <p className="mt-1 text-xs text-charcoal-400 dark:text-cream-200/70">
+                          {v.channel} · {v.language} · {v.duration} · {v.type}
+                        </p>
+                        <p className="mt-1.5 text-xs leading-relaxed text-charcoal-500 dark:text-cream-200/80">
+                          {v.whyRecommended}
+                        </p>
+                        <p className="mt-2 inline-flex items-center gap-1 rounded-full bg-sage-100 px-2 py-0.5 text-[11px] text-sage-700 dark:bg-sage-900/50 dark:text-sage-300">
+                          <BadgeCheck size={11} /> Verified {v.lastChecked}
+                        </p>
+                      </div>
+                    </a>
+                  ) : (
+                    <div key={v.id} className="rounded-xl border border-dashed border-amber-400 bg-amber-50/60 p-4 text-sm text-amber-800 dark:bg-amber-900/20 dark:text-amber-200">
+                      <p className="font-medium">{v.title}</p>
+                      <p className="mt-1 text-xs">Resource not currently available.</p>
                     </div>
-                    <div className="p-3">
-                      <p className="text-sm font-medium text-charcoal-800 dark:text-cream-50">
-                        {v.title}
-                      </p>
-                      <p className="mt-1 text-xs text-charcoal-400 dark:text-cream-200/70">
-                        {v.channel} · {v.language} · {v.duration}
-                      </p>
-                      <p className="mt-1.5 text-xs leading-relaxed text-charcoal-500 dark:text-cream-200/80">
-                        {v.whyRecommended}
-                      </p>
-                    </div>
-                  </div>
-                ))}
+                  )
+                )}
               </div>
             ) : (
               <EmptyState

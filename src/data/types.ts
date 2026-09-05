@@ -6,6 +6,8 @@ export interface Video {
   id: string;
   title: string;
   url: string;
+  youtubeId?: string;
+  watchUrl?: string;
   thumbnail: string;
   channel: string;
   subjectId: string;
@@ -88,6 +90,30 @@ export interface PYQ {
   paper: string;
   source: string;
   questions: string[];
+}
+
+export type PyqSourceType = "Official University" | "Reputable Website" | "Aggregator";
+
+export interface PyqPaper {
+  id: string;
+  subject: string;
+  subjectId?: string;
+  title: string;
+  code: string;
+  semester: number;
+  year: string;
+  url: string;
+  source: string;
+  sourceType: PyqSourceType;
+  note?: string;
+  verified: string;
+}
+
+export interface PyqSource {
+  label: string;
+  url: string;
+  description: string;
+  primary?: boolean;
 }
 
 export type ContentBlockType = "paragraph" | "heading" | "list" | "table" | "equation" | "note" | "definition" | "example" | "tip";

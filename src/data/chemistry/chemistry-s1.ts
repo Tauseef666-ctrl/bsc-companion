@@ -69,8 +69,8 @@ export const chemistryS1: Subject = {
               ],
               resources: {
                 videos: [
-                  vid("dipole-1", "Dipole Moment — Concept Lecture", "dipole moment chemistry B.Sc lecture", "chemistry", 1, "Unit I — Molecular Polarity", "Dipole Moment and Molecular Structure", "Dipole Moment & Molecular Structure", "Hindi", "25 min", "Concept Lecture", "Explains dipole moment, unit, bond moments and how shape decides molecular polarity."),
-                  vid("dipole-2", "Percentage Ionic Character — Easy Explanation", "percentage ionic character dipole moment HCl", "chemistry", 1, "Unit I — Molecular Polarity", "Dipole Moment and Molecular Structure", "Dipole Moment & Molecular Structure", "Hindi", "15 min", "Easy Explanation", "Step-by-step numerical for % ionic character from dipole moment."),
+                  vid("dipole-1", "Dipole Moment — Concept Lecture", "dipole moment chemistry B.Sc lecture", "chemistry", 1, "Unit I — Molecular Polarity", "Dipole Moment and Molecular Structure", "Dipole Moment & Molecular Structure", "Hindi", "34 min", "Concept Lecture", "Explains dipole moment, unit, bond moments and how shape decides molecular polarity.", "1vOqSpO9X08", "Rishi S Classes"),
+                  vid("dipole-2", "Percentage Ionic Character — Easy Explanation", "percentage ionic character dipole moment HCl", "chemistry", 1, "Unit I — Molecular Polarity", "Dipole Moment and Molecular Structure", "Dipole Moment & Molecular Structure", "Hindi", "7 min", "Easy Explanation", "Step-by-step numerical for % ionic character from dipole moment.", "ugA_mm8vw0A", "Shelly Chemistry"),
                 ],
                 pdfs: [
                   pdf("dipole-pdf1", "Dipole Moments and Molecular Polarity — open notes", "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Physical_Properties_of_Matter/Atomic_and_Molecular_Properties/Dipole_Moments", "chemistry", 1, "Unit I — Molecular Polarity", "Dipole Moment and Molecular Structure", "Dipole Moment & Molecular Structure", "LibreTexts (open textbook)", "Open Textbook", "English", "Notes", "Complete open-university notes on dipole moments and structure."),
@@ -134,8 +134,8 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Calling dispersion forces 'induced dipole-induced dipole is a separate force' — it is another name for the same force."],
               resources: {
                 videos: [
-                  vid("vdw-1", "Intermolecular Forces — Concept Lecture", "intermolecular forces van der Waals lecture", "chemistry", 1, "Unit I — Molecular Polarity", "Dipole Moment and Molecular Structure", "van der Waals Forces & Ion-Dipole Interactions", "Hindi", "30 min", "Concept Lecture", "Full explanation of all weak forces with examples and strengths."),
-                  vid("vdw-2", "One-Shot Revision — All weak forces", "van der Waals forces one shot revision", "chemistry", 1, "Unit I — Molecular Polarity", "Dipole Moment and Molecular Structure", "van der Waals Forces & Ion-Dipole Interactions", "Hindi", "18 min", "One-Shot", "Fast revision of ion-dipole, dipole-dipole and dispersion forces."),
+                  vid("vdw-1", "Intermolecular Forces — Concept Lecture", "intermolecular forces van der Waals lecture", "chemistry", 1, "Unit I — Molecular Polarity", "Dipole Moment and Molecular Structure", "van der Waals Forces & Ion-Dipole Interactions", "Hindi", "39 min", "Concept Lecture", "Full explanation of all weak forces with examples and strengths.", "UKH6CM7bMEU", "LET'S STUDY! INDIA"),
+                  vid("vdw-2", "One-Shot Revision — All weak forces", "van der Waals forces one shot revision", "chemistry", 1, "Unit I — Molecular Polarity", "Dipole Moment and Molecular Structure", "van der Waals Forces & Ion-Dipole Interactions", "Hindi", "6 min", "One-Shot", "Fast revision of ion-dipole, dipole-dipole and dispersion forces.", "kQqR5psjk8Y", "Najam Academy"),
                 ],
                 pdfs: [
                   pdf("vdw-pdf1", "Intermolecular Forces (open textbook notes)", "https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Chemistry_1_(OpenSTAX)/10%3A_Liquids_and_Solids/10.1%3A_Intermolecular_Forces", "chemistry", 1, "Unit I — Molecular Polarity", "Dipole Moment and Molecular Structure", "van der Waals Forces & Ion-Dipole Interactions", "LibreTexts", "Open Textbook", "English", "Notes", "University-level notes on every weak intermolecular force."),
@@ -194,7 +194,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Moving atoms or creating/removing unpaired electrons while writing canonical forms."],
               resources: {
                 videos: [
-                  vid("res-1", "Resonance & Resonance Energy — Concept Lecture", "resonance resonance energy formal charge chemistry", "chemistry", 1, "Unit I — Molecular Polarity", "Resonance & Formal Charge", "Resonance, Resonance Energy & Formal Charge", "Hindi", "28 min", "Concept Lecture", "Covers rules for canonical forms, hybrid stability and formal charge calculation."),
+                  vid("res-1", "Resonance & Resonance Energy — Concept Lecture", "resonance resonance energy formal charge chemistry", "chemistry", 1, "Unit I — Molecular Polarity", "Resonance & Formal Charge", "Resonance, Resonance Energy & Formal Charge", "Hindi", "15 min", "Concept Lecture", "Covers rules for canonical forms, hybrid stability and formal charge calculation.", "zuvzwZ4W2yk", "ChemoScience"),
                 ],
                 pdfs: [
                   pdf("res-pdf1", "Resonance (open university notes)", "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Fundamentals/Resonance", "chemistry", 1, "Unit I — Molecular Polarity", "Resonance & Formal Charge", "Resonance, Resonance Energy & Formal Charge", "LibreTexts", "Open Textbook", "English", "Notes", "Detailed notes on resonance structures and rules."),
@@ -249,7 +249,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Thinking Fajan's rules predict geometry — they predict bond character only."],
               resources: {
                 videos: [
-                  vid("fajan-1", "Fajan's Rules — Concept Lecture", "Fajan's rules chemistry lecture polarizing power", "chemistry", 1, "Unit I — Molecular Polarity", "Fajan's Rules & Hydrogen Bonding", "Polarizing Power, Fajan's Rules & Consequences", "Hindi", "22 min", "Concept Lecture", "Rules explained with Na vs Al chloride comparison."),
+                  vid("fajan-1", "Fajan's Rules — Concept Lecture", "Fajan's rules chemistry lecture polarizing power", "chemistry", 1, "Unit I — Molecular Polarity", "Fajan's Rules & Hydrogen Bonding", "Polarizing Power, Fajan's Rules & Consequences", "Hindi", "32 min", "Concept Lecture", "Rules explained with Na vs Al chloride comparison.", "FlnUTTfx6HI", "Chemical Science by Pankaj Sir"),
                 ],
                 pdfs: [
                   pdf("fajan-pdf1", "Fajans' Rules (open notes)", "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Crystal_Lattices/Ionic_Radii/Fajans%27_Rules", "chemistry", 1, "Unit I — Molecular Polarity", "Fajan's Rules & Hydrogen Bonding", "Polarizing Power, Fajan's Rules & Consequences", "LibreTexts", "Open Textbook", "English", "Notes", "Series of worked examples of the rules."),
@@ -295,7 +295,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Writing 'H₂S shows strong H-bonding' — S is not small/electronegative enough."],
               resources: {
                 videos: [
-                  vid("hbond-1", "Hydrogen Bonding — Concept Lecture", "hydrogen bonding chemistry lecture types", "chemistry", 1, "Unit I — Molecular Polarity", "Fajan's Rules & Hydrogen Bonding", "Hydrogen Bonding", "Hindi", "20 min", "Concept Lecture", "Intermolecular vs intramolecular H-bonding with all consequences."),
+                  vid("hbond-1", "Hydrogen Bonding — Concept Lecture", "hydrogen bonding chemistry lecture types", "chemistry", 1, "Unit I — Molecular Polarity", "Fajan's Rules & Hydrogen Bonding", "Hydrogen Bonding", "Hindi", "32 min", "Concept Lecture", "Intermolecular vs intramolecular H-bonding with all consequences.", "_DmUl27zZSQ", "Rishi S Classes"),
                 ],
                 pdfs: [
                   pdf("hbond-pdf1", "Hydrogen Bonding (open notes)", "https://chem.libretexts.org/Bookshelves/General_Chemistry/Book%3A_Chemistry_1_(OpenSTAX)/10%3A_Liquids_and_Solids/10.1%3A_Intermolecular_Forces", "chemistry", 1, "Unit I — Molecular Polarity", "Fajan's Rules & Hydrogen Bonding", "Hydrogen Bonding", "LibreTexts", "Open Textbook", "English", "Notes", "Includes the water anomaly explanation."),
@@ -355,8 +355,8 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Thinking a double bond is just 'two bonds of equal strength' — one is σ, one is π."],
               resources: {
                 videos: [
-                  vid("vbt-1", "Valence Bond Theory — Concept Lecture", "valence bond theory chemistry lecture B.Sc", "chemistry", 1, "Unit II — Bonding Theories", "Valence Bond Theory & Hybridization", "Valence Bond Theory (VBT)", "Hindi", "26 min", "Concept Lecture", "Covers overlap, σ/π bonds, and VBT-based bonding of common molecules."),
-                  vid("vbt-2", "Sigma vs Pi bonds — Easy Explanation", "sigma and pi bonds difference easy", "chemistry", 1, "Unit II — Bonding Theories", "Valence Bond Theory & Hybridization", "Valence Bond Theory (VBT)", "Hindi", "12 min", "Easy Explanation", "Quick visual explanation to separate σ and π."),
+                  vid("vbt-1", "Valence Bond Theory — Concept Lecture", "valence bond theory chemistry lecture B.Sc", "chemistry", 1, "Unit II — Bonding Theories", "Valence Bond Theory & Hybridization", "Valence Bond Theory (VBT)", "Hindi", "14 min", "Concept Lecture", "Covers overlap, σ/π bonds, and VBT-based bonding of common molecules.", "uJJYFLuGMAw", "zchem chemistry classes"),
+                  vid("vbt-2", "Sigma vs Pi bonds — Easy Explanation", "sigma and pi bonds difference easy", "chemistry", 1, "Unit II — Bonding Theories", "Valence Bond Theory & Hybridization", "Valence Bond Theory (VBT)", "Hindi", "9 min", "Easy Explanation", "Quick visual explanation to separate σ and π.", "pG3f_vqvbO8", "Najam Academy"),
                 ],
                 pdfs: [
                   pdf("vbt-pdf1", "Valence Bond Theory (open notes)", "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Chemical_Bonding/Valence_Bond_Theory", "chemistry", 1, "Unit II — Bonding Theories", "Valence Bond Theory & Hybridization", "Valence Bond Theory (VBT)", "LibreTexts", "Open Textbook", "English", "Notes", "Complete open-university treatment of VBT."),
@@ -402,8 +402,8 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Counting π bonds in the hybrid index — π bonds are NOT counted."],
               resources: {
                 videos: [
-                  vid("hyb-1", "Hybridization — Concept Lecture", "hybridization sp sp2 sp3 chemistry lecture", "chemistry", 1, "Unit II — Bonding Theories", "Valence Bond Theory & Hybridization", "Hybridization & Molecular Geometry", "Hindi", "32 min", "Concept Lecture", "All types of hybridization with geometry and examples."),
-                  vid("hyb-2", "Bent's Rule — Easy Explanation", "Bent's rule chemistry explanation", "chemistry", 1, "Unit II — Bonding Theories", "Valence Bond Theory & Hybridization", "Hybridization & Molecular Geometry", "Hindi", "14 min", "Easy Explanation", "Rule state, order of electronegativity and worked examples."),
+                  vid("hyb-1", "Hybridization — Concept Lecture", "hybridization sp sp2 sp3 chemistry lecture", "chemistry", 1, "Unit II — Bonding Theories", "Valence Bond Theory & Hybridization", "Hybridization & Molecular Geometry", "Hindi", "7 min", "Concept Lecture", "All types of hybridization with geometry and examples.", "U8MkMLWxsLk", "PureChem Concept"),
+                  vid("hyb-2", "Bent's Rule — Easy Explanation", "Bent's rule chemistry explanation", "chemistry", 1, "Unit II — Bonding Theories", "Valence Bond Theory & Hybridization", "Hybridization & Molecular Geometry", "Hindi", "8 min", "Easy Explanation", "Rule state, order of electronegativity and worked examples.", "iaUOChyW-AA", "UGC-NET SVI"),
                 ],
                 pdfs: [
                   pdf("hyb-pdf1", "Hybrid Orbitals (open notes)", "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Chemical_Bonding/Hybrid_Orbitals", "chemistry", 1, "Unit II — Bonding Theories", "Valence Bond Theory & Hybridization", "Hybridization & Molecular Geometry", "LibreTexts", "Open Textbook", "English", "Notes", "Tables and orbital drawings for all hybrid types."),
@@ -453,7 +453,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Reporting electron-pair geometry instead of molecular shape."],
               resources: {
                 videos: [
-                  vid("vsepr-1", "VSEPR Theory — Concept Lecture", "VSEPR theory chemistry lecture shapes", "chemistry", 1, "Unit II — Bonding Theories", "VSEPR Theory", "VSEPR Theory & Molecular Shapes", "Hindi", "30 min", "Concept Lecture", "Complete coverage of all the syllabus molecules H₂O to ClF₃."),
+                  vid("vsepr-1", "VSEPR Theory — Concept Lecture", "VSEPR theory chemistry lecture shapes", "chemistry", 1, "Unit II — Bonding Theories", "VSEPR Theory", "VSEPR Theory & Molecular Shapes", "Hindi", "28 min", "Concept Lecture", "Complete coverage of all the syllabus molecules H₂O to ClF₃.", "OCEFXApyAVM", "LCR (CHEMISTRY)"),
                 ],
                 pdfs: [
                   pdf("vsepr-pdf1", "VSEPR Theory (open notes)", "https://chem.libretexts.org/Courses/University_of_California_Davis/UCD_Chem_2A/Text/08%3A_Molecular_Structure_and_Bonding/8.05%3A_VSEPR_Theory", "chemistry", 1, "Unit II — Bonding Theories", "VSEPR Theory", "VSEPR Theory & Molecular Shapes", "LibreTexts", "Open Textbook", "English", "Notes", "Detailed shapes table with lone-pair effects."),
@@ -506,8 +506,8 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Using the same orbital order for all second-row diatomics — O₂ onwards has different σ/π order."],
               resources: {
                 videos: [
-                  vid("mot-1", "Molecular Orbital Theory — Concept Lecture", "molecular orbital theory MOT chemistry lecture N2 O2", "chemistry", 1, "Unit II — Bonding Theories", "Molecular Orbital Theory", "Molecular Orbital Theory (MOT)", "Hindi", "35 min", "Concept Lecture", "Full MOT with MO diagrams for N₂, O₂, C₂, B₂, F₂, CO, NO."),
-                  vid("mot-2", "One-Shot: Bond order & magnetism table", "MOT bond order magnetic nature one shot", "chemistry", 1, "Unit II — Bonding Theories", "Molecular Orbital Theory", "Molecular Orbital Theory (MOT)", "Hindi", "20 min", "One-Shot", "Rapid revision of the full diatomic table."),
+                  vid("mot-1", "Molecular Orbital Theory — Concept Lecture", "molecular orbital theory MOT chemistry lecture N2 O2", "chemistry", 1, "Unit II — Bonding Theories", "Molecular Orbital Theory", "Molecular Orbital Theory (MOT)", "Hindi", "28 min", "Concept Lecture", "Full MOT with MO diagrams for N₂, O₂, C₂, B₂, F₂, CO, NO.", "gHSbRefPH2g", "AIMS by Asim Ansari"),
+                  vid("mot-2", "One-Shot: Bond order & magnetism table", "MOT bond order magnetic nature one shot", "chemistry", 1, "Unit II — Bonding Theories", "Molecular Orbital Theory", "Molecular Orbital Theory (MOT)", "Hindi", "38 min", "One-Shot", "Rapid revision of the full diatomic table.", "oxBV5WuOLpQ", "zchem chemistry classes"),
                 ],
                 pdfs: [
                   pdf("mot-pdf1", "Molecular Orbital Theory (open notes)", "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Chemical_Bonding/Molecular_Orbital_Theory", "chemistry", 1, "Unit II — Bonding Theories", "Molecular Orbital Theory", "Molecular Orbital Theory (MOT)", "LibreTexts", "Open Textbook", "English", "Notes", "MO diagrams shown for several diatomic molecules."),
@@ -567,7 +567,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Including electrons of higher groups in σ — they contribute zero."],
               resources: {
                 videos: [
-                  vid("zeff-1", "Effective Nuclear Charge & Slater's Rules — Concept Lecture", "Slater's rules effective nuclear charge", "chemistry", 1, "Unit III — Periodic Properties", "Effective Nuclear Charge & Radii", "Effective Nuclear Charge & Slater's Rules", "Hindi", "24 min", "Concept Lecture", "Worked Slater calculations with examples."),
+                  vid("zeff-1", "Effective Nuclear Charge & Slater's Rules — Concept Lecture", "Slater's rules effective nuclear charge", "chemistry", 1, "Unit III — Periodic Properties", "Effective Nuclear Charge & Radii", "Effective Nuclear Charge & Slater's Rules", "Hindi", "23 min", "Concept Lecture", "Worked Slater calculations with examples.", "5G7aRtQBBT8", "Connect with Chemistry"),
                 ],
                 pdfs: [
                   pdf("zeff-pdf1", "Slater's Rules (open notes)", "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Periodic_Trends/Coulombic_Attractions/Slater%27s_Rules", "chemistry", 1, "Unit III — Periodic Properties", "Effective Nuclear Charge & Radii", "Effective Nuclear Charge & Slater's Rules", "LibreTexts", "Open Textbook", "English", "Notes", "Rules with worked numerical examples."),
@@ -612,7 +612,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Comparing cations and anions directly without noting the electron count."],
               resources: {
                 videos: [
-                  vid("radii-1", "Atomic & Ionic Radii — Concept Lecture", "atomic ionic radius trends periodic", "chemistry", 1, "Unit III — Periodic Properties", "Effective Nuclear Charge & Radii", "Atomic & Ionic Radii Trends", "Hindi", "18 min", "Concept Lecture", "Trends across period and down group with isoelectronic series."),
+                  vid("radii-1", "Atomic & Ionic Radii — Concept Lecture", "atomic ionic radius trends periodic", "chemistry", 1, "Unit III — Periodic Properties", "Effective Nuclear Charge & Radii", "Atomic & Ionic Radii Trends", "English", "17 min", "Concept Lecture", "Trends across period and down group with isoelectronic series.", "kFvEo1qZdNw", "The Organic Chemistry Tutor"),
                 ],
                 pdfs: [
                   pdf("radii-pdf1", "Periodic Trends — Radii (open notes)", "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Periodic_Trends", "chemistry", 1, "Unit III — Periodic Properties", "Effective Nuclear Charge & Radii", "Atomic & Ionic Radii Trends", "LibreTexts", "Open Textbook", "English", "Notes", "Overview of all periodic trends including radii."),
@@ -664,7 +664,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Confusing electronegativity (bonded atom) with electron affinity (isolated atom)."],
               resources: {
                 videos: [
-                  vid("en-1", "Electronegativity — Concept Lecture", "electronegativity scales Pauling Allred Rochow", "chemistry", 1, "Unit III — Periodic Properties", "Electronegativity & Enthalpies", "Electronegativity — Pauling & Allred-Rochow Scales", "Hindi", "26 min", "Concept Lecture", "Both scales, formulas and periodic trends."),
+                  vid("en-1", "Electronegativity — Concept Lecture", "electronegativity scales Pauling Allred Rochow", "chemistry", 1, "Unit III — Periodic Properties", "Electronegativity & Enthalpies", "Electronegativity — Pauling & Allred-Rochow Scales", "Hindi", "10 min", "Concept Lecture", "Both scales, formulas and periodic trends.", "apYjo1NexiU", "Ajeet Amant Chemistry"),
                 ],
                 pdfs: [
                   pdf("en-pdf1", "Electronegativity (open notes)", "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Periodic_Trends/Electronegativity", "chemistry", 1, "Unit III — Periodic Properties", "Electronegativity & Enthalpies", "Electronegativity — Pauling & Allred-Rochow Scales", "LibreTexts", "Open Textbook", "English", "Notes", "Comparison of the scales described."),
@@ -710,7 +710,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Writing electron affinity with a positive sign — electron affinity = −ΔₑgH."],
               resources: {
                 videos: [
-                  vid("ie-1", "Ionization & Electron Gain Enthalpy — Concept Lecture", "ionization enthalpy electron gain enthalpy trends", "chemistry", 1, "Unit III — Periodic Properties", "Electronegativity & Enthalpies", "Ionization Enthalpy & Electron Gain Enthalpy", "Hindi", "27 min", "Concept Lecture", "All trends with exceptions explained."),
+                  vid("ie-1", "Ionization & Electron Gain Enthalpy — Concept Lecture", "ionization enthalpy electron gain enthalpy trends", "chemistry", 1, "Unit III — Periodic Properties", "Electronegativity & Enthalpies", "Ionization Enthalpy & Electron Gain Enthalpy", "Hindi", "27 min", "Concept Lecture", "All trends with exceptions explained.", "bA7A73FdjJ0", "Shivani Central"),
                 ],
                 pdfs: [
                   pdf("ie-pdf1", "Ionization Energy and Electron Affinity (open)", "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Periodic_Trends/Ionization_Energy", "chemistry", 1, "Unit III — Periodic Properties", "Electronegativity & Enthalpies", "Ionization Enthalpy & Electron Gain Enthalpy", "LibreTexts", "Open Textbook", "English", "Notes", "Detailed trends including exceptions."),
@@ -771,7 +771,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Confusing inductive (σ, permanent) with electromeric/resonance (π, temporary/delocalized) effects."],
               resources: {
                 videos: [
-                  vid("inductive-1", "Inductive Effect — Concept Lecture", "inductive effect chemistry +I -I order acidity", "chemistry", 1, "Unit IV — Fundamentals of Organic Chemistry", "Electronic Effects", "Inductive Effect & Its Applications", "Hindi", "24 min", "Concept Lecture", "Definitions, orders and acidity applications."),
+                  vid("inductive-1", "Inductive Effect — Concept Lecture", "inductive effect chemistry +I -I order acidity", "chemistry", 1, "Unit IV — Fundamentals of Organic Chemistry", "Electronic Effects", "Inductive Effect & Its Applications", "Hindi", "9 min", "Concept Lecture", "Definitions, orders and acidity applications.", "-JrFIB3DYzk", "Najam Academy"),
                 ],
                 pdfs: [
                   pdf("inductive-pdf1", "Electronic Effects — open notes", "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Fundamentals/Inductive_Effects", "chemistry", 1, "Unit IV — Fundamentals of Organic Chemistry", "Electronic Effects", "Inductive Effect & Its Applications", "LibreTexts", "Open Textbook", "English", "Notes", "Clean treatment of inductive effect with examples."),
@@ -818,8 +818,8 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Calling the mesomeric effect 'temporary' — resonance is permanent; the electromeric effect is the temporary one."],
               resources: {
                 videos: [
-                  vid("meso-1", "Mesomeric & Electromeric Effect — Concept Lecture", "mesomeric effect electromeric effect chemistry", "chemistry", 1, "Unit IV — Fundamentals of Organic Chemistry", "Electronic Effects", "Resonance/Mesomeric Effect & Hyperconjugation", "Hindi", "25 min", "Concept Lecture", "Both effects with direction groups."),
-                  vid("meso-2", "Hyperconjugation — Easy Explanation", "hyperconjugation effect chemistry carbocation stability", "chemistry", 1, "Unit IV — Fundamentals of Organic Chemistry", "Electronic Effects", "Resonance/Mesomeric Effect & Hyperconjugation", "Hindi", "18 min", "Easy Explanation", "No-bond resonance drawn step by step."),
+                  vid("meso-1", "Mesomeric & Electromeric Effect — Concept Lecture", "mesomeric effect electromeric effect chemistry", "chemistry", 1, "Unit IV — Fundamentals of Organic Chemistry", "Electronic Effects", "Resonance/Mesomeric Effect & Hyperconjugation", "Hindi", "1 h 58 min", "Concept Lecture", "Both effects with direction groups.", "bLVnNQhpzBY", "Sri Chaitanya Academy NEET"),
+                  vid("meso-2", "Hyperconjugation — Easy Explanation", "hyperconjugation effect chemistry carbocation stability", "chemistry", 1, "Unit IV — Fundamentals of Organic Chemistry", "Electronic Effects", "Resonance/Mesomeric Effect & Hyperconjugation", "Hindi", "5 min", "Easy Explanation", "No-bond resonance drawn step by step.", "-SQT85Bb9r8", "Kanhaiya Patel"),
                 ],
                 pdfs: [
                   pdf("meso-pdf1", "Hyperconjugation (open notes)", "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Alkanes/Hyperconjugation", "chemistry", 1, "Unit IV — Fundamentals of Organic Chemistry", "Electronic Effects", "Resonance/Mesomeric Effect & Hyperconjugation", "LibreTexts", "Open Textbook", "English", "Notes", "Includes carbocation and alkene stability examples."),
@@ -862,7 +862,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Thinking clathrates are ions or salts — they are neutral host-guest lattices."],
               resources: {
                 videos: [
-                  vid("clath-1", "Clathrates & Charge-Transfer Complexes — Concept Lecture", "clathrates inclusion compounds charge transfer complexes", "chemistry", 1, "Unit IV — Fundamentals of Organic Chemistry", "Electronic Effects", "Inclusion Compounds, Clathrates & Charge-Transfer Complexes", "Hindi", "20 min", "Concept Lecture", "Both phenomena with urea and starch-iodine examples."),
+                  vid("clath-1", "Clathrates & Charge-Transfer Complexes — Concept Lecture", "clathrates inclusion compounds charge transfer complexes", "chemistry", 1, "Unit IV — Fundamentals of Organic Chemistry", "Electronic Effects", "Inclusion Compounds, Clathrates & Charge-Transfer Complexes", "Hindi", "46 min", "Concept Lecture", "Both phenomena with urea and starch-iodine examples.", "F6aI2BJ66Xg", "BHAKTI's ALChemistry"),
                 ],
                 pdfs: [
                   pdf("clath-pdf1", "Inclusion Compounds & Clathrates (open)", "https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Chemical_Bonding/Inclusion_Compounds", "chemistry", 1, "Unit IV — Fundamentals of Organic Chemistry", "Electronic Effects", "Inclusion Compounds, Clathrates & Charge-Transfer Complexes", "LibreTexts", "Open Textbook", "English", "Notes", "Covers the types with structures."),
@@ -923,7 +923,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Drawing double-headed arrows for radical steps."],
               resources: {
                 videos: [
-                  vid("fission-1", "Bond Fission & Reagents — Concept Lecture", "homolytic heterolytic fission electrophile nucleophile", "chemistry", 1, "Unit V — Mechanism of Organic Reactions", "Reaction Fundamentals", "Bond Fission & Reagents (Electrophiles/Nucleophiles)", "Hindi", "22 min", "Concept Lecture", "All arrow conventions and reagent examples."),
+                  vid("fission-1", "Bond Fission & Reagents — Concept Lecture", "homolytic heterolytic fission electrophile nucleophile", "chemistry", 1, "Unit V — Mechanism of Organic Reactions", "Reaction Fundamentals", "Bond Fission & Reagents (Electrophiles/Nucleophiles)", "Hindi", "22 min", "Concept Lecture", "All arrow conventions and reagent examples.", "uykUlwndCyc", "Chemical Science by Pankaj Sir"),
                 ],
                 pdfs: [
                   pdf("fission-pdf1", "Mechanism basics — open notes", "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_LibreTexts/Book%3A_Organic_Chemistry_with_a_Biological_Emphasis_(Soderberg)/06%3A_Introduction_to_Reaction_Mechanisms", "chemistry", 1, "Unit V — Mechanism of Organic Reactions", "Reaction Fundamentals", "Bond Fission & Reagents (Electrophiles/Nucleophiles)", "LibreTexts", "Open Textbook", "English", "Notes", "Arrow conventions and reaction types."),
@@ -970,7 +970,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Applying the carbocation order to carbanions."],
               resources: {
                 videos: [
-                  vid("int-1", "Reactive Intermediates — Concept Lecture", "reactive intermediates carbocation carbanion free radical carbene", "chemistry", 1, "Unit V — Mechanism of Organic Reactions", "Reaction Fundamentals", "Reactive Intermediates", "Hindi", "32 min", "Concept Lecture", "AIl six intermediates with stability orders."),
+                  vid("int-1", "Reactive Intermediates — Concept Lecture", "reactive intermediates carbocation carbanion free radical carbene", "chemistry", 1, "Unit V — Mechanism of Organic Reactions", "Reaction Fundamentals", "Reactive Intermediates", "Hindi", "9 min", "Concept Lecture", "AIl six intermediates with stability orders.", "EP9OktQ6O7M", "Athar's Chem"),
                 ],
                 pdfs: [
                   pdf("int-pdf1", "Reactive Intermediates (open notes)", "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Reactive_Intermediates", "chemistry", 1, "Unit V — Mechanism of Organic Reactions", "Reaction Fundamentals", "Reactive Intermediates", "LibreTexts", "Open Textbook", "English", "Notes", "Covers cations, anions, radicals, carbenes and nitrenes."),
@@ -1034,8 +1034,8 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Rotating a Fischer projection 90° (that inverts the configuration); only 180° rotation is safe."],
               resources: {
                 videos: [
-                  vid("chiral-1", "Chirality & Enantiomers — Concept Lecture", "chirality enantiomers optical activity chemistry", "chemistry", 1, "Unit VI — Stereochemistry", "Optical Isomerism", "Chirality & Enantiomers", "Hindi", "30 min", "Concept Lecture", "Chirality, optical activity and R/S naming."),
-                  vid("chiral-2", "R/S Configuration — Easy Explanation", "R and S configuration CIP rules example", "chemistry", 1, "Unit VI — Stereochemistry", "Optical Isomerism", "Chirality & Enantiomers", "Hindi", "22 min", "Easy Explanation", "Step-by-step R/S determination worked examples."),
+                  vid("chiral-1", "Chirality & Enantiomers — Concept Lecture", "chirality enantiomers optical activity chemistry", "chemistry", 1, "Unit VI — Stereochemistry", "Optical Isomerism", "Chirality & Enantiomers", "Hindi", "17 min", "Concept Lecture", "Chirality, optical activity and R/S naming.", "_AiVIOZxjSo", "Be DKDian"),
+                  vid("chiral-2", "R/S Configuration — Easy Explanation", "R and S configuration CIP rules example", "chemistry", 1, "Unit VI — Stereochemistry", "Optical Isomerism", "Chirality & Enantiomers", "Hindi", "13 min", "Easy Explanation", "Step-by-step R/S determination worked examples.", "vFkUs_vXxKk", "Najam Academy"),
                 ],
                 pdfs: [
                   pdf("chiral-pdf1", "Chirality & Stereochemistry (open notes)", "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Supplemental_Modules_(Organic_Chemistry)/Fundamentals/Introduction_to_Configurations", "chemistry", 1, "Unit VI — Stereochemistry", "Optical Isomerism", "Chirality & Enantiomers", "LibreTexts", "Open Textbook", "English", "Notes", "Clean intro to chirality, enantiomers and CIP rules."),
@@ -1083,8 +1083,8 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Counting 4 isomers for tartaric acid — it has only 3 (one is meso)."],
               resources: {
                 videos: [
-                  vid("diast-1", "Diastereomers & Meso — Concept Lecture", "diastereomers meso compounds tartaric acid", "chemistry", 1, "Unit VI — Stereochemistry", "Optical Isomerism", "Diastereomers, Meso Compounds & Resolution", "Hindi", "24 min", "Concept Lecture", "Tartaric acid case study and meso concept."),
-                  vid("diast-2", "Resolution of Enantiomers — Easy Explanation", "resolution of racemic mixture enantiomers", "chemistry", 1, "Unit VI — Stereochemistry", "Optical Isomerism", "Diastereomers, Meso Compounds & Resolution", "Hindi", "15 min", "Easy Explanation", "All three resolution methods."),
+                  vid("diast-1", "Diastereomers & Meso — Concept Lecture", "diastereomers meso compounds tartaric acid", "chemistry", 1, "Unit VI — Stereochemistry", "Optical Isomerism", "Diastereomers, Meso Compounds & Resolution", "Hindi", "36 min", "Concept Lecture", "Tartaric acid case study and meso concept.", "0bksyFzZz-M", "Pharmacology Concepts By Rajesh Choudhary"),
+                  vid("diast-2", "Resolution of Enantiomers — Easy Explanation", "resolution of racemic mixture enantiomers", "chemistry", 1, "Unit VI — Stereochemistry", "Optical Isomerism", "Diastereomers, Meso Compounds & Resolution", "Hindi", "12 min", "Easy Explanation", "All three resolution methods.", "4HQ93JD6Or0", "Pharmawhisper"),
                 ],
                 pdfs: [
                   pdf("diast-pdf1", "Stereoisomers — open notes", "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_LibreTexts/Book%3A_Organic_Chemistry_(McMurry)/05%3A_Stereochemistry_at_Tetrahedral_Centers", "chemistry", 1, "Unit VI — Stereochemistry", "Optical Isomerism", "Diastereomers, Meso Compounds & Resolution", "LibreTexts", "Open Textbook", "English", "Notes", "Includes meso compounds and resolved examples."),
@@ -1139,7 +1139,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Using cis/trans when the substituents are not identical pairs."],
               resources: {
                 videos: [
-                  vid("ez-1", "E/Z Nomenclature — Concept Lecture", "E and Z nomenclature geometric isomerism", "chemistry", 1, "Unit VI — Stereochemistry", "Geometric & Conformational Isomerism", "E/Z Nomenclature & Geometric Isomerism", "Hindi", "20 min", "Concept Lecture", "CIP-based E/Z assignment with examples."),
+                  vid("ez-1", "E/Z Nomenclature — Concept Lecture", "E and Z nomenclature geometric isomerism", "chemistry", 1, "Unit VI — Stereochemistry", "Geometric & Conformational Isomerism", "E/Z Nomenclature & Geometric Isomerism", "Hindi", "10 min", "Concept Lecture", "CIP-based E/Z assignment with examples.", "DftQyhm_FA4", "Chemistry by Dr. Anjali Ssaxena"),
                 ],
                 pdfs: [
                   pdf("ez-pdf1", "Geometric Isomerism (open notes)", "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_LibreTexts/Book%3A_Organic_Chemistry_(Map%3A_Structure_and_Reactivity)%2FStructure_and_Reactivity%2FIsomerism/Geometrical_Isomerism", "chemistry", 1, "Unit VI — Stereochemistry", "Geometric & Conformational Isomerism", "E/Z Nomenclature & Geometric Isomerism", "LibreTexts", "Open Textbook", "English", "Notes", "Full treatment of alkene isomerism."),
@@ -1187,7 +1187,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Drawing boat with no eclipsing/flagpole penalty."],
               resources: {
                 videos: [
-                  vid("conf-1", "Conformational Analysis — Concept Lecture", "conformational analysis ethane n-butane cyclohexane", "chemistry", 1, "Unit VI — Stereochemistry", "Geometric & Conformational Isomerism", "Conformational Analysis: Ethane, n-Butane & Cyclohexane", "Hindi", "30 min", "Concept Lecture", "Newman projections for ethane/butane and cyclohexane chairs."),
+                  vid("conf-1", "Conformational Analysis — Concept Lecture", "conformational analysis ethane n-butane cyclohexane", "chemistry", 1, "Unit VI — Stereochemistry", "Geometric & Conformational Isomerism", "Conformational Analysis: Ethane, n-Butane & Cyclohexane", "Hindi", "15 min", "Concept Lecture", "Newman projections for ethane/butane and cyclohexane chairs.", "i-KoiT3RDyY", "P2 Passion and Progress"),
                 ],
                 pdfs: [
                   pdf("conf-pdf1", "Conformational Analysis (open notes)", "https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Organic_Chemistry_LibreTexts/Book%3A_Organic_Chemistry_(McMurry)/03%3A_Organic_Compounds%3A_Alkanes_and_Their_Stereochemistry/3.07%3A_Conformations_of_Other_Alkanes", "chemistry", 1, "Unit VI — Stereochemistry", "Geometric & Conformational Isomerism", "Conformational Analysis: Ethane, n-Butane & Cyclohexane", "LibreTexts", "Open Textbook", "English", "Notes", "Conformers of ethane, butane and cyclohexane."),
@@ -1252,7 +1252,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Writing binary for '26' incorrectly — divide repeatedly by 2 and read remainders bottom-up."],
               resources: {
                 videos: [
-                  vid("compbasics-1", "Computer Fundamentals — Concept Lecture", "computer fundamentals hardware software number system", "chemistry", 1, "Unit VII — Basic Computer System", "Computer Fundamentals", "Hardware, Software, Number Systems & OS", "Hindi", "35 min", "Concept Lecture", "Full coverage of devices, number systems, codes and OS."),
+                  vid("compbasics-1", "Computer Fundamentals — Concept Lecture", "computer fundamentals hardware software number system", "chemistry", 1, "Unit VII — Basic Computer System", "Computer Fundamentals", "Hardware, Software, Number Systems & OS", "Hindi", "40 min", "Concept Lecture", "Full coverage of devices, number systems, codes and OS.", "idc9SE3SDV0", "LU Update"),
                 ],
                 pdfs: [
                   pdf("compbasics-pdf1", "Computer Fundamentals (open free book)", "https://www.tutorialspoint.com/computer_fundamentals/computer_fundamentals_tutorial.pdf", "chemistry", 1, "Unit VII — Basic Computer System", "Computer Fundamentals", "Hardware, Software, Number Systems & OS", "TutorialsPoint (free tutorial)", "Open Educational Resource", "English", "Notes", "Free fundamentals PDF covering all the syllabus points."),
@@ -1317,7 +1317,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Forgetting the constant of integration in indefinite integrals."],
               resources: {
                 videos: [
-                  vid("calc-1", "Calculus for Chemistry — Concept Lecture", "differentiation integration for chemistry lecture", "chemistry", 1, "Unit VIII — Mathematical Concepts for Chemistry", "Calculus & Probability for Chemists", "Differentiation, Integration & Logarithms", "Hindi", "30 min", "Concept Lecture", "Chemistry-focused calculus with rate law examples."),
+                  vid("calc-1", "Calculus for Chemistry — Concept Lecture", "differentiation integration for chemistry lecture", "chemistry", 1, "Unit VIII — Mathematical Concepts for Chemistry", "Calculus & Probability for Chemists", "Differentiation, Integration & Logarithms", "Hindi", "1 h 10 min", "Concept Lecture", "Chemistry-focused calculus with rate law examples.", "jD2InfX_96I", "Physics Wallah - Alakh Pandey"),
                 ],
                 pdfs: [
                   pdf("calc-pdf1", "Mathematics for Chemistry (open e-book)", "https://chem.libretexts.org/Bookshelves/Ancillary_Materials/Biological_and_Computational_Math%2FMathematics_for_Chemistry", "chemistry", 1, "Unit VIII — Mathematical Concepts for Chemistry", "Calculus & Probability for Chemists", "Differentiation, Integration & Logarithms", "LibreTexts", "Open Textbook", "English", "Notes", "Free university-level math-for-chemistry text."),
@@ -1364,7 +1364,7 @@ export const chemistryS1: Subject = {
               commonMistakes: ["Using permutation when selection order is irrelevant."],
               resources: {
                 videos: [
-                  vid("prob-1", "Permutations, Combinations & Probability — Concept Lecture", "permutations combinations probability factorial chemistry", "chemistry", 1, "Unit VIII — Mathematical Concepts for Chemistry", "Calculus & Probability for Chemists", "Permutations, Combinations & Probability", "Hindi", "20 min", "Concept Lecture", "Counting rules with chemical examples."),
+                  vid("prob-1", "Permutations, Combinations & Probability — Concept Lecture", "permutations combinations probability factorial chemistry", "chemistry", 1, "Unit VIII — Mathematical Concepts for Chemistry", "Calculus & Probability for Chemists", "Permutations, Combinations & Probability", "Hindi", "38 min", "Concept Lecture", "Counting rules with chemical examples.", "KtATMd82e9c", "Physics Wallah - Alakh Pandey"),
                 ],
                 pdfs: [
                   pdf("prob-pdf1", "Probability in chemistry (open)", "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Quantum_Mechanics/11%3A_Molecular_Orbital_Theory/Probability_Part_1", "chemistry", 1, "Unit VIII — Mathematical Concepts for Chemistry", "Calculus & Probability for Chemists", "Permutations, Combinations & Probability", "LibreTexts", "Open Textbook", "English", "Notes", "Probability ideas applied to quantum chemistry."),
