@@ -1,8 +1,18 @@
 import type { Subject, Unit, Chapter, Topic } from "./types";
 import { chemistryS1 } from "./chemistry/chemistry-s1";
+import { envScienceS1 } from "./env-science/env-science-s1";
+import { psychologyS1 } from "./psychology/psychology-s1";
+import { computerSkillS1 } from "./computer-skill/computer-skill-s1";
+import { coCurricularS1 } from "./co-curricular/co-curricular-s1";
 import { slug } from "./helpers";
 
-export const subjects: Subject[] = [chemistryS1];
+export const subjects: Subject[] = [
+  chemistryS1,
+  envScienceS1,
+  psychologyS1,
+  computerSkillS1,
+  coCurricularS1,
+];
 
 export interface TopicNode extends Topic {
   subjectTitle: string;

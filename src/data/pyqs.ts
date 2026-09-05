@@ -110,6 +110,7 @@ export const pyqPapers: PyqPaper[] = [
   {
     id: "sem1-evs-325-2023",
     subject: "Environmental Science",
+    subjectId: "environmental-science",
     title: "Fundamentals of Environmental Science",
     code: "325",
     semester: 1,
@@ -117,6 +118,7 @@ export const pyqPapers: PyqPaper[] = [
     url: drive("1SMNOGJi1PoLdFDLS2tmSaIvKnT8XzcO4"),
     source: "Dr. RML Avadh University (RMLAU) paper",
     sourceType: "Reputable Website",
+    note: "Same title/code family as KDC B150101T.",
     verified: pyqVerifiedOn,
   },
   {
