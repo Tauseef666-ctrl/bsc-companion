@@ -1,0 +1,12 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2020,
+    "sourceType": "module"
+  },
+  "extends": ["eslint:recommended", "next/core-web-vitals"],
+  "rules": {
+    "react/no-unescaped-entities": "off",
+    "no-unused-vars": "off",
+    "no-misleading-character-class": "off"
+  }
+}
